@@ -1,14 +1,8 @@
-<scheme name="Solarized Dark" version="142" parent_scheme="Default">
+<scheme name="Solarized Dark (Darcula)" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro Semibold" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="baffba" />
     <option name="ANNOTATIONS_COLOR" value="586e75" />
@@ -16,6 +10,22 @@
     <option name="CARET_COLOR" value="dc322f" />
     <option name="CARET_ROW_COLOR" value="73642" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
+    <option name="FILESTATUS_ADDED" value="629755" />
+    <option name="FILESTATUS_DELETED" value="6c6c6c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
+    <option name="FILESTATUS_MERGED" value="9876aa" />
+    <option name="FILESTATUS_MODIFIED" value="6897bb" />
+    <option name="FILESTATUS_NOT_CHANGED" value="" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
+    <option name="FILESTATUS_UNKNOWN" value="d1675a" />
+    <option name="FILESTATUS_addedOutside" value="629755" />
+    <option name="FILESTATUS_changelistConflict" value="d5756c" />
+    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
     <option name="GUTTER_BACKGROUND" value="73642" />
     <option name="INDENT_GUIDE" value="73642" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
